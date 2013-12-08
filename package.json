@@ -1,0 +1,15 @@
+{
+  "name": "auth-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "ejs": "*",
+    "mongodb": ">= 0.9.9",
+    "connect-mongo": ">= 0.1.7",
+    "connect-flash" : "~0.1.1"    
+  }
+}
